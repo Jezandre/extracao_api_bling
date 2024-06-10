@@ -1,4 +1,4 @@
-﻿# Extração de dados de um sistem ERP - Bling
+﻿# Extração de dados do Bling
 
 ## Introdução
 
