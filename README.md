@@ -1,4 +1,4 @@
-﻿# Extração de dados do Bling
+ Extração de dados do Bling
 
 ## Introdução
 
@@ -8,7 +8,7 @@ A utilização de dados é fundamental tanto para o monitoramento da saúde, qua
 
 O processo a seguir se trata da criação de pipelines de extração de dados, bem como a transformação desses dados em insights significativos para o negócio. Utilizamos um processo desenvolvido em python que se conecta à API e em seguida coleta os dados e insere dentro de um banco de dados intermediário, o qual chamamos de stage. A partir dos dados armazenados no stage foi criado um datawrehouse utilizando o pentaho como orquestrador da ETL. Todo o processo é executado de hora em hora em um servidor Windows. Por fim, os dados são visualizados de maneira gráfica em um arquivo power BI.
 
-O objetivo é atender a demanda do cliente que precisava visalizar as informações de modo que pudesse ser possível armazenar um histórico e substituir o sistema antigo.
+O objetivo é atender a demanda do cliente que precisava visualizar as informações de modo que pudesse ser possível armazenar um histórico e substituir o sistema antigo.
 
 ![Untitled (8)](https://github.com/Jezandre/pequeno_encanto/assets/63671761/e6307623-3237-4a52-b5fe-c12937714c41)
 
